@@ -12,6 +12,11 @@ Here server is simply a computer with software installed that responds to specif
 ![image](https://user-images.githubusercontent.com/76161912/236511527-0782caf9-44c5-4b27-8d96-8e5788c5b53b.png)
 
 ### IP Address:
-1) IP address is identity of each host. it needs it to communicate on a netqork to send and receive packets.
+1) IP address is identity of each host. it needs it to communicate on a network to send and receive packets.
+2) The purpose of an IP address is to handle the connection between devices that send and receive information across a network
+3) IP address is 32 bits
+4) Each bit is just 0 and 1 . So IP address is just random 32 1's and 0's 
+5) We break it into four octet and convert each octet into decimal number.
+6) 1011  0110 1000  1101  0101  1101  1100  1010
 
 
