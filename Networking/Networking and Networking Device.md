@@ -18,5 +18,12 @@ Here server is simply a computer with software installed that responds to specif
 4) Each bit is just 0 and 1 . So IP address is just random 32 1's and 0's 
 5) We break it into four octet and convert each octet into decimal number.
 6) 1011  0110 1000  1101  0101  1101  1100  1010
+7) When IP address are heirarchly assigned they are called Subnetting
 
+### Network
+1)A network is what transports the traffic between Hosts
+2)Two hosts connected , we get a network.
+3) Network can also be defined as logically grouping of host which require similar connectivity.
+4) We can have network inside the network called Subnetworks or Subnets
 
+Internet: Network connect to other networks. Now there can be 
