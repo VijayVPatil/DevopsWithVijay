@@ -70,6 +70,6 @@ This IP address is a gateway Local
 Gateway: A host's way out of the network to connect to another hosts of another network.
 
 
-## Resoutce I followed:
+## Resource I followed:
 Youtube: https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
 90 Days of Devops by Micheal Cade: https://github.com/MichaelCade/90DaysOfDevOps/tree/main
