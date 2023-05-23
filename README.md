@@ -1,5 +1,10 @@
 # DevopsWithVijay
 I will be sharing my Devops learning here!!!!!
+I am also sharing my learnings via blogs on
+### Hashnode
+https://vijayblogs.hashnode.dev/
+### LinkedIn
+https://www.linkedin.com/in/vijay-patil-2a85b7219/
 
 ## What is Devops?
 ![image](https://github.com/VijayVPatil/DevopsWithVijay/assets/76161912/6dc865c1-b1ac-4050-a8f0-333cb3338626)
